@@ -1,0 +1,142 @@
+{
+    "pages": [
+        {
+            "tags": "", 
+            "text": "Tanszékvezető Dr. Katona Gyula egyetemi docens IB 133/aa tel: 463-2587 email Fő- és félállású munkatársak Dr. Csákány Rita egyetemi docens IB 137/a tel: 463-3156 email Csehi Csongor György egyetemi tanársegéd IE 2.17.3 tel: 463-3159 email Dr. Csima Judit egyetemi docens IB 136/b tel: 463-2987 email Dr. Fleiner Tamás egyetemi docens IB 137/b tel: 463-3161 email Dr. Friedl Katalin egyetemi docens IB 137/a tel: 463-3156 email Dr. Györfi László professor emeritus IE 215 tel: 463-3146 email Dr. Ketskeméty László egyetemi docens IE 2.16.2 tel: 463-2897 email Dr. Pach Péter Pál egyetemi adjunktus IB 136/b tel: 463-2987 email Dr. Pintér Márta egyetemi docens IE 2.17.2 tel: 463-3158 email Dr. Recski András egyetemi tanár IE 214 tel: 463-2984 email Dr. Sali Attila egyetemi docens IB 137/b tel: 463-3161 email Dr. Schlotter Ildikó egyetemi docens IB 136/b tel: 463-2987 email Dr. Simonyi Gábor egyetemi tanár IE 2.17.3 tel: 463-3159 email Szabó Réka egyetemi tanársegéd IB 136/a tel: 463-3162 email Dr. Szeredi Péter nyug. egyetemi docens IE.2.16.3 tel: 463-2986 email Dr. Szeszlér Dávid egyetemi docens IB.136A tel: 463-3162 email Dr. Telcs András egyetemi docens IE.2.16.2 tel: 463-2897 email Dr. Tóth Géza egyetemi docens IE.2.17.2 tel: 463-3158 email Dr. Wiener Gábor egyetemi docens IB.136A tel: 463-3162 email Doktoranduszok Papp László IE.2.17.3 463-3159 email Soltész Dániel IE.2.16.3 463-3159 email Varga Kitti IE.2.17.2 463-3158 email Zlantniczki Ádám IE.2.17.2 463-3158 email Külső munkatársak Balázs Barbara babraat@cs.bme.hu Bérczi Kristóf berczikr@freemail.hu Buzga Viktor vik.barca@gmail.com Daróczy Bálint daroczyb@sztaki.hu Drótos Márton marton.drotos@sztaki.hu Kaszanitzky Viktória blunoka@gmail.com Kápolnai Richárd richard@iit.bme.hu Kiss Gergely kisss@cs.elte.hu Kőrösi Attila korosi@tmit.bme.hu Mester Beáta banan.bea@citromail.hu Mihálka Éva Zsuzsanna zsmihalka@gmail.com Nagy Péter peternagy0619@gmail.com Ottucsák György oti@cs.bme.hu Pácsonyi Imre pacsonyii@cs.bme.hu Patkós Balázs patkos@renyi.hu Peregi Tamás petamas@gmail.com Richlik György IE.2.16.2 463-2897 richlik@cs.bme.hu Sándor Zoltán sandor.zoltan.14@gmail.com Sebők Márton sebokmarton@cs.bme.hu Simon Balázs sbalazs03@freemail.hu Szatmári Zoltán zee@cs.bme.hu Tassy Gergely tassyg@gmail.com Titkos Tamás titkostamas@gmail.com Vidor Sára vidor.sari@gmail.com Adminisztráció, rendszergazdák Czenkiné Boltizár Katalin tanszéki adminisztrátor IB.133B tel: 463-2585 email Magyarné Boltizár Ildikó tanszéki adminisztrátor IB.133B tel: 463-2585 email Bornemissza Péter rendszergazda IE.504 tel: 30/otkilencvenegy-2693 email Molnár Péter rendszergazda IB.135 tel: 30/nyolcnegyvenegy-2320 email", 
+            "title": "Munkatársaink", 
+            "url": "/munkatarsak.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Számítástudományi és Információelméleti Tanszék", 
+            "url": "/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem Számítástudományi és Információelméleti Tanszék Budapest, 1117, Magyar tudósok körútja 2.,  I épület, IB132 Elérhetőségek telefon: +36-1-463-2585 fax: +36-1-463 3157 email: tszvez@cs.bme.hu", 
+            "title": "Kapcsolat", 
+            "url": "/kapcsolat.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Tárgyak listája ide, zárójelben, hogy kinek választható Valami kategória Leírás. Második tárgy Leírás.", 
+            "title": "Választható tárgyak", 
+            "url": "/oktatas/valaszthato.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Műszaki informatikus szak Algoritmusok és bonyolultságuk Gráfok, hipergráfok és alkalmazásaik Információelmélet Nagyhatékonyságú deklaratív programozás laboratórium Nagyméretű adathalmazok kezelése Nyelvek és automaták Rendszeroptimalizálás Tömegkiszolgálás Gazdaságinformatikus szak Adatbányászati technikák Matematikai statisztika Pénzügyi matematika alapjai Villamosmérnök szak Kombinatorikus optimalizálás Matematikus szak Algebrai és általános kombinatorika Algoritmusok és bonyolultságuk Kombinatorikus optimalizálás Közgazdasági és pénzügyi idősorok", 
+            "title": "MSC", 
+            "url": "/oktatas/msc.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "BSC MSC Szakirány Doktori és egyéb választható tárgyak Idegen nyelvű képzés Témakiírások Tehetséggondozás", 
+            "title": "Oktatás", 
+            "url": "/oktatas/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Német nyelvű képzés Einführung in die theoretische Informatik II. Grundlagen der theoretischen Informatik Theorie der Algorithmen Angol nyelvű képzés Foundations of Computer Science Introduction to Computer Science I. System optimization Theory of Algorithm", 
+            "title": "Idegen nyelvű képzés", 
+            "url": "/oktatas/nem_magyar.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Műszaki informatikus szak Adatbányászat labor Algoritmuselmélet Bevezetés a számításelméletbe 1. Bevezetés a számításelméletbe 2. Deklaratív programozás Valószínűségszámítás Villamosmérnök szak Számítástudomány alapjai Matematikus szak Kombinatorika és gráfelmélet 1. Kombinatorika és gráfelmélet 2. Egészségügyi szervező szak Adatstruktúrák és algoritmusok", 
+            "title": "BSC", 
+            "url": "/oktatas/bsc.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Doktori tárgyak Adatbányászati algoritmusok Algoritmikus kérdések a bioinformatikában Geometriai algoritmusok Gráfok és információelmélet Matematikai statisztika Nemnegatív elemű mátrixok Portfólió- és opcióelméleti alapok Véletlen mátrixok sajátértékei Választható tárgyak, szakkör ACM szakkör", 
+            "title": "Doktori és egyéb választható tárgyak", 
+            "url": "/oktatas/doktori.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Számításelmélet mellékspecializáció (műszaki informatikus szak) Algoritmusok és bonyolultságuk Gráfok, hipergráfok és alkalmazásaik Nagyhatékonyságú deklaratív programozás laboratórium Nagyméretű adathalmazok kezelése Pénzügyi informatika specializáció (gazdaságinformatikus szak)", 
+            "title": "Szakirány", 
+            "url": "/oktatas/szakirany.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Phd témakiírások Ha a villamosmérnöki vagy az informatikai doktori program keretében jelentkezik valaki az alábbi témák egyikére, a jelentkezési lapját a BME Villamosmérnöki és Informatikai Karának (VIK) Dékáni Hivatalában kell leadnia, és felvételi vizsgát a VIK által kijelölt felvételi bizottság előtt kell tennie. A felvételi pontozási rendszerről a VIK Dékáni Hivatal honlapján, a http://www.vik.bme.hu/kepzes/alapkepzes/altalanos/217.html címen kaphat részletes tájékoztatást. \nHa az alkalmazott matematikai doktori program keretében jelentkezik valaki, akkor a BME Természettudományi Karának (TTK) Dékáni Hivatalához forduljon; további információkat kaphat a Matematikai Intézet honlapjáról. \nAjánljuk továbbá, hogy (lehetőleg a jelentkezés előtt több hónappal) személyesen is konzultáljon a témavezetővel, majd a tanszékvezetővel vagy helyettesével. Informatikai tudományok Stabil párosítások és alkalmazásaik (Dr. Fleiner Tamás) Hatékony algoritmusok (Dr. Friedl Katalin) Gráfok robosztussága (Dr. Katona Gyula) Paraméteres algoritmusok és bonyolultságelmélet (Dr. Marx Dániel) Kombinatorikus optimalizálás és műszaki alkalmazásai (Dr. Recski András) Gráfok színezései (Dr. Simonyi Gábor) Deklaratív programozás (Dr. Szeredi Péter) Kombinatorikus algoritmusok a 3-dimenziós VLSI-huzalozásban (Dr. Szeszlér Dávid) Véletlen bolyongás fraktál jellegű gráfokon (Dr. Telcs András) hipergráfok nyomai (Dr. Wiener Gábor) Villamosmérnöki tudományok Gráfok robosztussága (Dr. Katona Gyula) Kombinatorikus optimalizálás és műszaki alkalmazásai (Dr. Recski András) Kombinatorikus algoritmusok a 3-dimenziós VLSI-huzalozásban (Dr. Szeszlér Dávid) Diplomamunka, önálló labor és TDK Üzleti informatikához kapcsolódó témák dr. Buza Krisztián Hiányzó értékek kezelésének szisztematikus vizsgálata Idősorok hiányzó értékeinek becslése Példánykiválasztó (instance selection) algoritmusok vizsgálata Gesztikulációk és jelbeszédi jelek felismerése Idősorok semi-supervised osztályozása, hibák tovaterjedésének vizsgálata Transfer learning dr. Csákány Rita Extremális kombinatorikai problémák dr. Csima Judit Elosztott maximális klikk-kereső algoritmusok skálázhatósága Hasonlóság-alapú gráfmodellezés Mély tanulás nagy gráfokon DNS alapú kiszámítás dr. Fleiner Tamás Stabil párosítások és alkalmazásaik dr. Friedl Katalin Hatékony algoritmusok dr. Katona Gyula Y. Gráfok robusztussága Hálózati folyamos feladatok automatizált előállítása Ko-lokációs probléma Szociális hálók  meglévő adatainak felskálázása Elosztott maximális klikk-kereső algoritmusok skálázhatósága Hasonlóság-alapú gráfmodellezés Mély tanulás nagy gráfokon dr. Ketskeméty László A legközelebbi társ módszer komplexitási problémái Statisztikai kísérlettervezés Forex tőzsdeérték alapján a valuta érték megváltozását előrejelző szoftver készítése Tanuló algoritmusok alkalmazása az ügyfélszolgálatra betérő ügyfél várható várakozási idejének becslésére algoritmusok skálázhatósága (szakmai gyakorlat) Tanuló algoritmusok alkalmazása az ügyfélszolgálati  ügyintézési folyamat irányítására (szakmai gyakorlat) Funkcióblokkok tesztelés célú grafikus tervezése és futtatása (szakmai gyakorlat) dr. Pintér Márta Univerzális predikció dr. Recski András Matroidelmélet és alkalmazásai A VLSI-huzalozás kombinatorikai algoritmusai dr. Sali Attila Adatbázis modellek kombinatorikus problémái dr. Simonyi Gábor Gráfszínezések Információelmélet a gráfelméletben dr. Szeredi Péter Deklaratív programozás dr. Szeszlér Dávid Kombinatorikus algoritmusok a 3-dimenziós VLSI-huzalozásban dr. Telcs András Elosztott elektronikus szavzórendszer fejlesztése Tudománymetriai vizsgálatok Kutassunk agyat! dr. Tóth Géza Gráfok metszési számai dr. Wiener Gábor Projekt ütemezés Processzor / Gép ütemezés Hipergráfok nyomai Adaptivítás a kereséselméletben Zlatniczki Ádám Big Data technológiák alkalmazása nagyméretű adatok elemzésére Optimális portfóliók vizsgálata, tervezése", 
+            "title": "Témakiírások", 
+            "url": "/oktatas/temakiiras.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "IMSC Általános leírás a tanszék gyakorlatáról Szakkör ACM szakkör", 
+            "title": "Tehetséggondozás", 
+            "url": "/oktatas/tehetseg.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Kutatási területeink a véges matematika, gráfelmélet, számítástudomány, infromációelmélet, számelmélet, valószínűségszámítás statisztika és adatbányászat elméleti kérdései és gyakorlati alkalmazásai. Kutatásainkat rendszeresen támogatja az OTKA. Publikációs listák Dr. Csákány Rita :   kombinatorika, gráfelmélet Csehi Csongor György : matroidok Dr. Csima Judit : formális nyelvek, bioinformatika, adatbányászat Dr. Fleiner Tamás : gráfelmélet, játékelmélet, kombinatorikus optimalizálás, stabil párosítások Dr. Friedl Katalin : algoritmuselmélet, bonyolultságelmélet, kvantum algoritmusok Dr. Györfi László : sztochasztikus approximáció, statisztikus alakfelismerés, nemparaméteres függvénybecslés, többszörös hozzáférésű csatornák kódolása, empirikus portfólió stratégiák Dr. Katona Gyula Y. : gráfelmélet, hipergráfok, gráfok megbízhatósági paraméterei, párosítások, algoritmusok, gráf kövezés Dr. Ketskeméty László : valószínűségszámítás, SPSS, valószínűségszámítás Dr. Pach Péter Pál : csoportelmélet, számelmélet, kombinatorika Dr. Pintér Márta : valószínűségszámítás, valószínűségszámítás Dr. Recski andrás : gráfelmélet, kombinatorikus optimalizálás, matroidok elmélete, VLSI Dr. Sali Attila : extremális halmazrendszerek, adatbázisok elmélete,  gráfelmélet Dr. Simonyi Gábor : gráfelmélet, information theory, colourings of graphs, graph capacities Dr. Schlotter Ildikó : parametrikus bonyolultságelmélet, algoritmuselmélet, bonyolultságelmélet Dr. Szeredi Péter : deklaratív programozás, logikai programozás, korlátok,  Prolog, szemantikus technológiák: szemantikus világháló, szemantikus integráció, párhuzamos programozás, párhuzamos logikai programozás, programozási nyelvek megvalósítása Dr. Szeszlér Dávid : gráfelmélet, kombinatorikus optimalizálás, VLSI Dr. Telcs András : véletlen bolyongások Dr. Tóth Géza : kombinatorikus geometria Dr. Wiener Gábor :    kombinatorika,  kereséselmélet,  gráfelmélet,  hipergráfok", 
+            "title": "Kutatási területeink", 
+            "url": "/kutatas/publikaciok.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Kutatási területeink OTKA pályázatunk Témakiírások Oktatóink könyvei", 
+            "title": "Kutatás", 
+            "url": "/kutatas/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Optimalizációs módszerek a felhő számítástechnikában és kommunikációban (OTKA K108947 pályázat) Témavezető: Dr. Recski András Résztvevők: Babarczi Péter, Buza Krisztián Antal, Csehi Csongor György, Csizmadia Balázs, Friedl Katalin,  Gulyás András, Katona Gyula, Kiss Attila, Körösi Attila, Mann Zoltán Ádám, Pach Péter Pál, Rétvári Gábor, Schlotter Ildikó, Soltész Dániel, Szabó Péter, Szeszlér Dávid, Tapolcai János, Tóth Ágnes, Wiener Gábor A jövőben, a felhasználói adatok kezelését döntően felhő alapú (cloud) rendszerekben fogják végezni. Ehhez nagyméretű adatokat kell tárolni, mozgatni és feldolgozni. Ehhez ú. n. adatközpontokat építenek, amelyek rengeteg számítógép összekötésével óriási számítási kapacitást és komoly kommunikációs infrastruktúrát képeznek. Ahhoz, hogy az adatközpontok a növekvő felhasználói igényeknek eleget tudjanak tenni, a tervezésnél két fontos tervezési irányelvet kell követni: a skálázható növekedést és energiahatékonyságot. A kutatási projekt során elsősorban az adatközpont kommunikációs hálózatának skálázható növekedését vizsgáljuk. Ehhez főként kombinatorikában kidolgozott gráf bővítési módszereket kutatunk azzal a céllal, hogy a jelenlegi eszközökből hatékonyabb adatközpontokat építsünk. A kombinatorikus optimalizálás a diszkrét matematika struktúráit és az elméleti számítástudomány eszközeit alkalmazza olyan problémák számítástechnikailag hatékony megoldására, melyek az összes eset gépies végigpróbálásával még a leggyorsabb számítógépekkel is évmilliókig tartanának a feladatok nagy mérete, komplexitása miatt. Csoportunk 1991 óta öt pályázási ciklus során több, mint 350 közleményt publikált ezen technikákról és műszaki alkalmazásaikról, ezt a tevékenységet kívánjuk folytatni elsősorban olyan mérnöki problémákhoz keresve a választ, mint skálázható adatközpontok és a felhő számára kialakított dinamikusan konfigurálható kommunikációs infrastruktúrák tervezése. A gyakorlati hátteret a MTA-BME Jövő Internet kutató csoport adja. Skálázható és energia-hatékony adatközpont architektúrák vizsgálata, új címzési és védelmi módszerek kidolgozása dinamikus optikai transzport hálózatokban. Ez a felhő számítástechnika kommunikációs hátteréhez kapcsolódik, kombinatorikus optimalizálási módszerek alkalmazásával. Ilyen kérdések pl.: (1) Hogyan tervezzünk adatközpont és felhő kommunikációs infrastruktúrákat egyre több felhasználó kiszolgálására? Információelméleti és gráfelméleti megközelítést alkalmazunk a hatékony csatorna és sávszélesség-kihasználás érdekében.Ehhez pl. gráfok összefüggőségi és színezési kérdéseivel, megbízható hálózat és összeköttetés optimalizálással foglalkozunk. (2) Hogyan tudjuk az új útvonal-választási paradigmákat és a zöld-energia felhasználásra vonatkozó preferenciákat figyelembe venni a dinamikus útvonalválasztásban? Vizsgáljuk az anycast és többesadás zöld-energia szerinti útvonal-választási algoritmusokat a felhő hálózatokban.Ehhez gráfok és hipergráfok Hamilton-tulajdonságait kutatjuk. (3) Hogyan tudjuk az adatközpont architektúrákat újratervezni (a létező eszközökkel vagy minimális beruházással) az energiafelhasználás csökkentésére és/vagy az egyre több felhő felhasználó számára a visszamenőleges kompatibilitás megőrzésével? Ehhez új adatközpont architektúrákat dolgozunk ki és hozzájuk skálázható alkalmazásokat, amelyek komplex ütemezési feladatok.Emellett multimédia szerverek esetén új tervezési paradigmákat is kidolgozunk. (4) Vizsgáljuk a felhők tervezéséhez kapcsolódó algoritmusok számítási bonyolultságát és e feladatok átlagos lépésszámára elméleti és empirikus becslést adunk. Hatékony feladattömörítési algoritmusokat is vizsgálunk kernelizációs algoritmusok segítségével. A fenti kombinatorikus optimalizálási módszerek alkalmazásával a fő célunk új eredmények elérése a felhő számítástechnikában és a kommunikáció következő területein: (1) Skálázhatóan bővíthető adatközpont hálózati topológiák, amelyekben a kommunikációs utak rövidek, tetszőleges két csomópont között több független út van, valamint nincsenek túlterhelt linkek. (2) Az útválasztók és adatközpont architektúrák tervezése során felmerülő optimalizációs problémák megoldásával (pl.: hatékonyabb elosztott multimedia szerverek tervezése, feladatok ütemezése ismeretlen hosszal) alacsonyabb energiafogyasztást és gyorsabb adatközpont válaszidőt érhetünk el. (3) Az egyes útvonal-választási, ütemezési, hiba menedzsment, stb. problémák bonyolultságának vizsgálata mind a legrosszabb, mind a tipikus esetekben az olyan dinamikus alkalmazási környezetekben, mint például a felhők. (4) Az új címzési módszereknek mind a felhő alkalmazások megkülönböztetésében, mind a hibák utáni gyors helyreállításban kiemelkedően fontos jelentősége van. Emellett remélhetőleg a felhasznált diszkrét matematikai eszközök elméletét is gazdagítani fogjuk új eredményekkel, így különösen NP-nehéz problémák polinom időben megoldható speciális eseteinek feltárásában. Ezek a felhő alapú számítástechnika mellett más matematikai területeken is alkalmazhatóak (ütemezési és szállítási problémák, logikai programozási feladatok, a stabil párosítások, közgazdasági alkalmazásai stb).", 
+            "title": "OTKA pályázatunk", 
+            "url": "/kutatas/otka.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Kutatási területeink a véges matematika, gráfelmélet, számítástudomány, infromációelmélet, számelmélet, valószínűségszámítás statisztika és adatbányászat elméleti kérdései és gyakorlati alkalmazásai. Kutatásainkat rendszeresen támogatja az OTKA. A kutatások ereményeiből született publikácók a munkatársak publikációs listáin érhetők el.", 
+            "title": "Kutatási területeink", 
+            "url": "/kutatas/teruletek.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Newsfeed", 
+            "url": "/news/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "A Futrinka utcából jelentjük...", 
+            "title": "Tanszéki hírek 1.", 
+            "url": "/news/2016-06-29.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Hírek archívuma", 
+            "url": "/rolunk/archivum.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Kapcsolat A tanszék profilja és története Minden, ami vicces Tanszéki konferenciák Hírek archívuma Tanszéki szeminárium Emlékezés régi kollégáinkra Tanszéki termek foglaltsága", 
+            "title": "Rólunk", 
+            "url": "/rolunk/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Történet Majd írunk ide is valamit Profil Meg ide is", 
+            "title": "A tanszék profilja és története", 
+            "url": "/rolunk/profil.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Tanszéki póló OHV-HOV : tanszéki kiváló oktatók és a Hallgatók Oktatói Véleményezése Sörváltó: 2000-ben , 2001-ben , 2002-ben Szakest Sztochasztikus torta : köszöntés Györfi László születésnapja alkalmából", 
+            "title": "Minden, ami vicces", 
+            "url": "/rolunk/fun.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem Számítástudományi és Információelméleti Tanszék Budapest, 1117, Magyar tudósok körútja 2.,  I épület, IB132 Elérhetőségek telefon: +36-1-463-2585 fax: +36-1-463 3157 email: tszvez@cs.bme.hu", 
+            "title": "Kapcsolat", 
+            "url": "/rolunk/kapcsolat.html"
+        }
+    ]
+}
